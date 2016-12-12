@@ -10,7 +10,7 @@
   "license": "WTFPL",
   "main": "index.js",
   "scripts": {
-    "start": "webpack -d"
+    "start": "webpack"
   },
   "homepage": "https://github.com/zacanger/react-bits#readme",
   "repository": {
